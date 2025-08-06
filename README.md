@@ -1,4 +1,6 @@
-# Hi## About Me
+# Hi there! 👋
+
+## About Me
 
 - 🔭 I'm currently working on full-stack web applications
 - 🌱 I'm currently learning advanced React patterns and cloud technologies
